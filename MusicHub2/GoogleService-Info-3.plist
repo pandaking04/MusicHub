@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154202717691-4c378mvnv8asqnhpfdi15f515ei9njee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154202717691-4c378mvnv8asqnhpfdi15f515ei9njee</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2UAhZ77OF-Ao-c-_tP_8qLUW_iBH2hyw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154202717691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>panda.MusicHub2</string>
+	<key>PROJECT_ID</key>
+	<string>musichub-7d55e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>musichub-7d55e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154202717691:ios:f25f3b71a3c3dc9a201f5e</string>
+</dict>
+</plist>
